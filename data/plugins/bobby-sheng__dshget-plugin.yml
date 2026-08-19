@@ -1,0 +1,7 @@
+url: https://github.com/bobby-sheng/dshget-plugin
+name: bobby-sheng/dshget-plugin
+category: market
+tarball: https://github.com/bobby-sheng/dshget-plugin/releases/download/v0.1.1/dshget-plugin-0.1.1.tgz
+description:
+  en: Search, inspect and refresh the DSH Get catalog through slash commands and read-only agent tools, with explicit user-triggered plugin installation.
+  zh: 通过斜杠命令和只读 Agent 工具搜索、查看及更新 DSH Get 目录，并由用户明确触发目录插件安装。
