@@ -1,0 +1,6 @@
+url: https://github.com/WenOwen/dsh-your-turn
+name: WenOwen/dsh-your-turn
+category: notify
+description:
+  en: 'Turn-handoff reminder for DeepSeek Harness: an interactive centred popup (or top banner) plus a Web Audio chime the moment an Agent hands the turn back; six synthesised voices, sidebar unread list, and cross-tab coordination.'
+  zh: DSH 回合交接提醒：agent 把回合交还时弹出可交互居中弹窗（或顶部横幅）并播放一次 Web Audio 合成的提示音；六种合成音色，侧栏未读列表，多标签协同。
